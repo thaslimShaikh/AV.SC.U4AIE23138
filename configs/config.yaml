@@ -1,0 +1,73 @@
+# Configuration for Latency-Aware Web Resource Prefetching Using Reinforcement Learning
+
+seed: 42
+
+dataset:
+  name: "MSNBC Web Navigation"
+  raw_url: "https://archive.ics.uci.edu/ml/machine-learning-databases/msnbc-mta/msnbc990928.seq.gz"
+  raw_path: "data/msnbc990928.seq"
+  processed_dir: "data/processed"
+  sample_dir: "data/sample"
+  num_categories: 17
+  min_session_length: 3
+  max_session_length: 50
+  train_ratio: 0.7
+  val_ratio: 0.15
+  test_ratio: 0.15
+
+environment:
+  max_cache_size_mb: 20.0
+  base_latency_ms: 50.0
+  bandwidth_mbps: 10.0
+  prefetch_cost_weight: 0.5
+  latency_weight: 1.0
+  bandwidth_penalty_weight: 0.3
+  cache_occupancy_weight: 0.1
+  history_length: 5
+  reward_type: "latency_aware"  # or "simplified"
+
+network_scenarios:
+  fast:
+    bandwidth_mbps: 50.0
+    latency_ms: 20.0
+  moderate:
+    bandwidth_mbps: 10.0
+    latency_ms: 50.0
+  slow:
+    bandwidth_mbps: 2.0
+    latency_ms: 150.0
+  high_latency:
+    bandwidth_mbps: 10.0
+    latency_ms: 300.0
+  limited_cache:
+    bandwidth_mbps: 10.0
+    latency_ms: 50.0
+    max_cache_size_mb: 5.0
+
+dqn:
+  state_dim: 31
+  action_dim: 2
+  hidden_dims: [128, 64]
+  learning_rate: 0.0005
+  gamma: 0.99
+  buffer_capacity: 50000
+  batch_size: 64
+  target_update_freq: 200
+  epsilon_start: 1.0
+  epsilon_end: 0.05
+  epsilon_decay: 0.995
+  double_dqn: true
+
+baselines:
+  rule_based_threshold: 0.35
+
+training:
+  episodes_demo: 300
+  episodes_full: 1500
+  eval_freq: 50
+  seeds: [42, 123, 999]
+
+logging:
+  model_dir: "models"
+  results_dir: "results"
+  figures_dir: "figures"
