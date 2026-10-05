@@ -1,0 +1,391 @@
+{
+  "scenarios": {
+    "Standard": {
+      "No Prefetch": {
+        "avg_latency": 825.2226999140155,
+        "median_latency": 850.0,
+        "p95_latency": 2050.0,
+        "prefetch_hit_rate": 0.3112639724849527,
+        "unnecessary_prefetch_rate": 0.0,
+        "bandwidth_usage_mb_per_step": 0.9877042132416164,
+        "cache_occupancy_ratio": 0.409183147033534,
+        "avg_reward": -48.462579999999996,
+        "latency_reduction_pct": 0.0
+      },
+      "Always Prefetch": {
+        "avg_latency": 638.2579535683577,
+        "median_latency": 450.0,
+        "p95_latency": 1810.0000000000002,
+        "prefetch_hit_rate": 0.47893379191745483,
+        "unnecessary_prefetch_rate": 0.8589853826311264,
+        "bandwidth_usage_mb_per_step": 1.2190025795356836,
+        "cache_occupancy_ratio": 0.539110060189166,
+        "avg_reward": -34.193685,
+        "latency_reduction_pct": 22.656277676939652
+      },
+      "Rule-Based": {
+        "avg_latency": 825.2226999140155,
+        "median_latency": 850.0,
+        "p95_latency": 2050.0,
+        "prefetch_hit_rate": 0.3112639724849527,
+        "unnecessary_prefetch_rate": 0.0,
+        "bandwidth_usage_mb_per_step": 0.9877042132416164,
+        "cache_occupancy_ratio": 0.409183147033534,
+        "avg_reward": -48.462579999999996,
+        "latency_reduction_pct": 0.0
+      },
+      "DQN (Simplified)": {
+        "avg_latency": 641.7248495270851,
+        "median_latency": 450.0,
+        "p95_latency": 1810.0000000000002,
+        "prefetch_hit_rate": 0.4754944110060189,
+        "unnecessary_prefetch_rate": 0.8601134215500945,
+        "bandwidth_usage_mb_per_step": 1.205932932072227,
+        "cache_occupancy_ratio": 0.5359501289767842,
+        "avg_reward": -34.638760000000005,
+        "latency_reduction_pct": 22.236161269685148
+      },
+      "DQN (Latency-Aware)": {
+        "avg_latency": 661.7282889079966,
+        "median_latency": 530.0,
+        "p95_latency": 1810.0000000000002,
+        "prefetch_hit_rate": 0.4514187446259673,
+        "unnecessary_prefetch_rate": 0.8443037974683544,
+        "bandwidth_usage_mb_per_step": 1.2038693035253654,
+        "cache_occupancy_ratio": 0.5248280309544282,
+        "avg_reward": -36.76017500000001,
+        "latency_reduction_pct": 19.812156284970627
+      }
+    },
+    "Fast Network": {
+      "No Prefetch": {
+        "avg_latency": 172.4299226139295,
+        "median_latency": 180.0,
+        "p95_latency": 420.0,
+        "prefetch_hit_rate": 0.3112639724849527,
+        "unnecessary_prefetch_rate": 0.0,
+        "bandwidth_usage_mb_per_step": 0.9877042132416164,
+        "cache_occupancy_ratio": 0.409183147033534,
+        "avg_reward": -10.50268,
+        "latency_reduction_pct": 0.0
+      },
+      "Always Prefetch": {
+        "avg_latency": 133.62854686156493,
+        "median_latency": 100.0,
+        "p95_latency": 372.00000000000006,
+        "prefetch_hit_rate": 0.47893379191745483,
+        "unnecessary_prefetch_rate": 0.8589853826311264,
+        "bandwidth_usage_mb_per_step": 1.2190025795356836,
+        "cache_occupancy_ratio": 0.539110060189166,
+        "avg_reward": -4.8494850000000005,
+        "latency_reduction_pct": 22.502692783340645
+      },
+      "Rule-Based": {
+        "avg_latency": 172.4299226139295,
+        "median_latency": 180.0,
+        "p95_latency": 420.0,
+        "prefetch_hit_rate": 0.3112639724849527,
+        "unnecessary_prefetch_rate": 0.0,
+        "bandwidth_usage_mb_per_step": 0.9877042132416164,
+        "cache_occupancy_ratio": 0.409183147033534,
+        "avg_reward": -10.50268,
+        "latency_reduction_pct": 0.0
+      },
+      "DQN (Simplified)": {
+        "avg_latency": 134.35081685296646,
+        "median_latency": 100.0,
+        "p95_latency": 372.00000000000006,
+        "prefetch_hit_rate": 0.4754944110060189,
+        "unnecessary_prefetch_rate": 0.8560386473429952,
+        "bandwidth_usage_mb_per_step": 1.20524505588994,
+        "cache_occupancy_ratio": 0.5356233877901978,
+        "avg_reward": -5.12643,
+        "latency_reduction_pct": 22.083815374795556
+      },
+      "DQN (Latency-Aware)": {
+        "avg_latency": 138.63628546861565,
+        "median_latency": 116.0,
+        "p95_latency": 372.00000000000006,
+        "prefetch_hit_rate": 0.4514187446259673,
+        "unnecessary_prefetch_rate": 0.8422391857506362,
+        "bandwidth_usage_mb_per_step": 1.20335339638865,
+        "cache_occupancy_ratio": 0.5235296646603611,
+        "avg_reward": -6.337565000000001,
+        "latency_reduction_pct": 19.598476084094628
+      }
+    },
+    "Slow Network": {
+      "No Prefetch": {
+        "avg_latency": 4054.749785038693,
+        "median_latency": 4150.0,
+        "p95_latency": 10150.0,
+        "prefetch_hit_rate": 0.3112639724849527,
+        "unnecessary_prefetch_rate": 0.0,
+        "bandwidth_usage_mb_per_step": 0.9877042132416164,
+        "cache_occupancy_ratio": 0.409183147033534,
+        "avg_reward": -236.25958,
+        "latency_reduction_pct": 0.0
+      },
+      "Always Prefetch": {
+        "avg_latency": 3135.3516766981943,
+        "median_latency": 2150.0,
+        "p95_latency": 8950.0,
+        "prefetch_hit_rate": 0.47893379191745483,
+        "unnecessary_prefetch_rate": 0.8589853826311264,
+        "bandwidth_usage_mb_per_step": 1.2190025795356836,
+        "cache_occupancy_ratio": 0.539110060189166,
+        "avg_reward": -179.39968499999998,
+        "latency_reduction_pct": 22.674595402481174
+      },
+      "Rule-Based": {
+        "avg_latency": 4054.749785038693,
+        "median_latency": 4150.0,
+        "p95_latency": 10150.0,
+        "prefetch_hit_rate": 0.3112639724849527,
+        "unnecessary_prefetch_rate": 0.0,
+        "bandwidth_usage_mb_per_step": 0.9877042132416164,
+        "cache_occupancy_ratio": 0.409183147033534,
+        "avg_reward": -236.25958,
+        "latency_reduction_pct": 0.0
+      },
+      "DQN (Simplified)": {
+        "avg_latency": 3152.3697334479793,
+        "median_latency": 2150.0,
+        "p95_latency": 8950.0,
+        "prefetch_hit_rate": 0.4754944110060189,
+        "unnecessary_prefetch_rate": 0.8584643848288621,
+        "bandwidth_usage_mb_per_step": 1.2095442820292348,
+        "cache_occupancy_ratio": 0.5362940670679278,
+        "avg_reward": -180.56811000000002,
+        "latency_reduction_pct": 22.254888696716527
+      },
+      "DQN (Latency-Aware)": {
+        "avg_latency": 3252.2355975924334,
+        "median_latency": 2550.0,
+        "p95_latency": 8950.0,
+        "prefetch_hit_rate": 0.4514187446259673,
+        "unnecessary_prefetch_rate": 0.8460575719649562,
+        "bandwidth_usage_mb_per_step": 1.2049011177987963,
+        "cache_occupancy_ratio": 0.5246302665520206,
+        "avg_reward": -187.400145,
+        "latency_reduction_pct": 19.7919533877872
+      }
+    },
+    "High Latency": {
+      "No Prefetch": {
+        "avg_latency": 997.4067067927773,
+        "median_latency": 1100.0,
+        "p95_latency": 2300.0,
+        "prefetch_hit_rate": 0.3112639724849527,
+        "unnecessary_prefetch_rate": 0.0,
+        "bandwidth_usage_mb_per_step": 0.9877042132416164,
+        "cache_occupancy_ratio": 0.409183147033534,
+        "avg_reward": -58.47508,
+        "latency_reduction_pct": 0.0
+      },
+      "Always Prefetch": {
+        "avg_latency": 768.524505588994,
+        "median_latency": 700.0,
+        "p95_latency": 2060.0,
+        "prefetch_hit_rate": 0.47893379191745483,
+        "unnecessary_prefetch_rate": 0.8589853826311264,
+        "bandwidth_usage_mb_per_step": 1.2190025795356836,
+        "cache_occupancy_ratio": 0.539110060189166,
+        "avg_reward": -41.768685,
+        "latency_reduction_pct": 22.947730313521568
+      },
+      "Rule-Based": {
+        "avg_latency": 997.4067067927773,
+        "median_latency": 1100.0,
+        "p95_latency": 2300.0,
+        "prefetch_hit_rate": 0.3112639724849527,
+        "unnecessary_prefetch_rate": 0.0,
+        "bandwidth_usage_mb_per_step": 0.9877042132416164,
+        "cache_occupancy_ratio": 0.409183147033534,
+        "avg_reward": -58.47508,
+        "latency_reduction_pct": 0.0
+      },
+      "DQN (Simplified)": {
+        "avg_latency": 772.8512467755804,
+        "median_latency": 700.0,
+        "p95_latency": 2060.0,
+        "prefetch_hit_rate": 0.4754944110060189,
+        "unnecessary_prefetch_rate": 0.857918552036199,
+        "bandwidth_usage_mb_per_step": 1.2129836629406707,
+        "cache_occupancy_ratio": 0.5371281169389509,
+        "avg_reward": -42.14037999999999,
+        "latency_reduction_pct": 22.513931226637606
+      },
+      "DQN (Latency-Aware)": {
+        "avg_latency": 799.286328460877,
+        "median_latency": 780.0,
+        "p95_latency": 2060.0,
+        "prefetch_hit_rate": 0.4514187446259673,
+        "unnecessary_prefetch_rate": 0.8451935081148564,
+        "bandwidth_usage_mb_per_step": 1.2023215821152193,
+        "cache_occupancy_ratio": 0.5243379191745486,
+        "avg_reward": -44.737505,
+        "latency_reduction_pct": 19.86354984206679
+      }
+    },
+    "Limited Cache": {
+      "No Prefetch": {
+        "avg_latency": 1029.0266552020637,
+        "median_latency": 1010.0,
+        "p95_latency": 2050.0,
+        "prefetch_hit_rate": 0.1410146173688736,
+        "unnecessary_prefetch_rate": 0.0,
+        "bandwidth_usage_mb_per_step": 1.232244196044712,
+        "cache_occupancy_ratio": 0.7504213241616509,
+        "avg_reward": -60.710640000000005,
+        "latency_reduction_pct": 0.0
+      },
+      "Always Prefetch": {
+        "avg_latency": 932.5864144453998,
+        "median_latency": 1010.0,
+        "p95_latency": 2050.0,
+        "prefetch_hit_rate": 0.235597592433362,
+        "unnecessary_prefetch_rate": 0.8589853826311264,
+        "bandwidth_usage_mb_per_step": 2.100171969045572,
+        "cache_occupancy_ratio": 0.8064488392089425,
+        "avg_reward": -55.85860000000002,
+        "latency_reduction_pct": 9.371986650601052
+      },
+      "Rule-Based": {
+        "avg_latency": 1029.0266552020637,
+        "median_latency": 1010.0,
+        "p95_latency": 2050.0,
+        "prefetch_hit_rate": 0.1410146173688736,
+        "unnecessary_prefetch_rate": 0.0,
+        "bandwidth_usage_mb_per_step": 1.232244196044712,
+        "cache_occupancy_ratio": 0.7504213241616509,
+        "avg_reward": -60.710640000000005,
+        "latency_reduction_pct": 0.0
+      },
+      "DQN (Simplified)": {
+        "avg_latency": 935.1865864144454,
+        "median_latency": 1010.0,
+        "p95_latency": 2050.0,
+        "prefetch_hit_rate": 0.23301805674978504,
+        "unnecessary_prefetch_rate": 0.8587619877942458,
+        "bandwidth_usage_mb_per_step": 2.0922613929492693,
+        "cache_occupancy_ratio": 0.8042304385210662,
+        "avg_reward": -55.99402000000002,
+        "latency_reduction_pct": 9.119303986269578
+      },
+      "DQN (Latency-Aware)": {
+        "avg_latency": 933.2605331040413,
+        "median_latency": 1010.0,
+        "p95_latency": 2050.0,
+        "prefetch_hit_rate": 0.22871883061049011,
+        "unnecessary_prefetch_rate": 0.8544857768052516,
+        "bandwidth_usage_mb_per_step": 2.0400687876182286,
+        "cache_occupancy_ratio": 0.8024075666380052,
+        "avg_reward": -55.99315000000001,
+        "latency_reduction_pct": 9.306476330218809
+      }
+    }
+  },
+  "statistical_summary": {
+    "No Prefetch": {
+      "avg_latency_mean": 848.1870503597123,
+      "avg_latency_std": 1.1368683772161603e-13,
+      "median_latency_mean": 850.0,
+      "median_latency_std": 0.0,
+      "p95_latency_mean": 2050.0,
+      "p95_latency_std": 0.0,
+      "prefetch_hit_rate_mean": 0.30755395683453235,
+      "prefetch_hit_rate_std": 0.0,
+      "unnecessary_prefetch_rate_mean": 0.0,
+      "unnecessary_prefetch_rate_std": 0.0,
+      "bandwidth_usage_mb_per_step_mean": 1.0161870503597121,
+      "bandwidth_usage_mb_per_step_std": 0.0,
+      "cache_occupancy_ratio_mean": 0.3990737410071942,
+      "cache_occupancy_ratio_std": 0.0,
+      "avg_reward_mean": -47.60297,
+      "avg_reward_std": 0.0,
+      "latency_reduction_pct_mean": 0.0,
+      "latency_reduction_pct_std": 0.0
+    },
+    "Always Prefetch": {
+      "avg_latency_mean": 671.6402877697842,
+      "avg_latency_std": 0.0,
+      "median_latency_mean": 450.0,
+      "median_latency_std": 0.0,
+      "p95_latency_mean": 1870.0000000000002,
+      "p95_latency_std": 0.0,
+      "prefetch_hit_rate_mean": 0.4694244604316547,
+      "prefetch_hit_rate_std": 0.0,
+      "unnecessary_prefetch_rate_mean": 0.8399280575539568,
+      "unnecessary_prefetch_rate_std": 0.0,
+      "bandwidth_usage_mb_per_step_mean": 1.2872302158273383,
+      "bandwidth_usage_mb_per_step_std": 0.0,
+      "cache_occupancy_ratio_mean": 0.5348920863309353,
+      "cache_occupancy_ratio_std": 0.0,
+      "avg_reward_mean": -34.7442,
+      "avg_reward_std": 0.0,
+      "latency_reduction_pct_mean": 20.81460245296781,
+      "latency_reduction_pct_std": 0.0
+    },
+    "Rule-Based": {
+      "avg_latency_mean": 848.1870503597123,
+      "avg_latency_std": 1.1368683772161603e-13,
+      "median_latency_mean": 850.0,
+      "median_latency_std": 0.0,
+      "p95_latency_mean": 2050.0,
+      "p95_latency_std": 0.0,
+      "prefetch_hit_rate_mean": 0.30755395683453235,
+      "prefetch_hit_rate_std": 0.0,
+      "unnecessary_prefetch_rate_mean": 0.0,
+      "unnecessary_prefetch_rate_std": 0.0,
+      "bandwidth_usage_mb_per_step_mean": 1.0161870503597121,
+      "bandwidth_usage_mb_per_step_std": 0.0,
+      "cache_occupancy_ratio_mean": 0.3990737410071942,
+      "cache_occupancy_ratio_std": 0.0,
+      "avg_reward_mean": -47.60297,
+      "avg_reward_std": 0.0,
+      "latency_reduction_pct_mean": 0.0,
+      "latency_reduction_pct_std": 0.0
+    },
+    "DQN (Simplified)": {
+      "avg_latency_mean": 675.2661870503597,
+      "avg_latency_std": 0.0,
+      "median_latency_mean": 530.0,
+      "median_latency_std": 0.0,
+      "p95_latency_mean": 1870.0000000000002,
+      "p95_latency_std": 0.0,
+      "prefetch_hit_rate_mean": 0.4658273381294964,
+      "prefetch_hit_rate_std": 0.0,
+      "unnecessary_prefetch_rate_mean": 0.8392156862745098,
+      "unnecessary_prefetch_rate_std": 0.0,
+      "bandwidth_usage_mb_per_step_mean": 1.2735611510791367,
+      "bandwidth_usage_mb_per_step_std": 0.0,
+      "cache_occupancy_ratio_mean": 0.5316456834532375,
+      "cache_occupancy_ratio_std": 0.0,
+      "avg_reward_mean": -35.20719,
+      "avg_reward_std": 0.0,
+      "latency_reduction_pct_mean": 20.387114285229604,
+      "latency_reduction_pct_std": 0.0
+    },
+    "DQN (Latency-Aware)": {
+      "avg_latency_mean": 691.9280575539568,
+      "avg_latency_std": 0.0,
+      "median_latency_mean": 530.0,
+      "median_latency_std": 0.0,
+      "p95_latency_mean": 1870.0000000000002,
+      "p95_latency_std": 0.0,
+      "prefetch_hit_rate_mean": 0.4424460431654677,
+      "prefetch_hit_rate_std": 5.551115123125783e-17,
+      "unnecessary_prefetch_rate_mean": 0.8303341902313625,
+      "unnecessary_prefetch_rate_std": 0.0,
+      "bandwidth_usage_mb_per_step_mean": 1.2746402877697842,
+      "bandwidth_usage_mb_per_step_std": 0.0,
+      "cache_occupancy_ratio_mean": 0.5254676258992806,
+      "cache_occupancy_ratio_std": 0.0,
+      "avg_reward_mean": -36.950720000000004,
+      "avg_reward_std": 0.0,
+      "latency_reduction_pct_mean": 18.42270437157543,
+      "latency_reduction_pct_std": 0.0
+    }
+  }
+}
