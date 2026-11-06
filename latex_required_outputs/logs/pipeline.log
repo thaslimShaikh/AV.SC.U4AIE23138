@@ -1,0 +1,129 @@
+2026-11-06 13:40:22 | INFO     | agentic_dc | ======================================================================
+2026-11-06 13:40:22 | INFO     | agentic_dc | COMPLETE RESEARCH PIPELINE – SYNTHETIC EXECUTION
+2026-11-06 13:40:22 | INFO     | agentic_dc | Real dataset files were NOT present. All numeric results are
+2026-11-06 13:40:22 | INFO     | agentic_dc | from synthetic data matching the paper schemas.
+2026-11-06 13:40:22 | INFO     | agentic_dc | ======================================================================
+2026-11-06 13:40:22 | INFO     | agentic_dc | Generating synthetic data matching paper extended-experiment series …
+2026-11-06 13:40:27 | INFO     | agentic_dc |   Series: Cooling_Return_Average  n=2500
+2026-11-06 13:40:27 | INFO     | agentic_dc |     persistence          RMSE=0.4393  R²=0.9161
+2026-11-06 13:40:27 | INFO     | agentic_dc |     hist_gradient_boosting   RMSE=0.6761  R²=0.8011  t=0.01s
+2026-11-06 13:40:27 | INFO     | agentic_dc |     random_forest            RMSE=5.6500  R²=-12.8877  t=0.05s
+2026-11-06 13:40:28 | INFO     | agentic_dc |     extra_trees              RMSE=5.7179  R²=-13.2238  t=0.07s
+2026-11-06 13:40:28 | INFO     | agentic_dc |     ridge                    RMSE=0.6076  R²=0.8394  t=0.00s
+2026-11-06 13:40:28 | INFO     | agentic_dc |     gradient_boosting        RMSE=0.6797  R²=0.7990  t=0.01s
+2026-11-06 13:40:30 | INFO     | agentic_dc |     mlp                      RMSE=37.9729  R²=-626.3074  t=0.50s
+2026-11-06 13:40:31 | INFO     | agentic_dc |     residual_mlp             RMSE=25.3504  R²=-278.5779  t=0.70s
+2026-11-06 13:40:31 | INFO     | agentic_dc |     lstm                     RMSE=34.2476  R²=-509.2633  t=0.71s
+2026-11-06 13:40:32 | INFO     | agentic_dc |     gru                      RMSE=33.3596  R²=-483.1455  t=0.52s
+2026-11-06 13:40:33 | INFO     | agentic_dc |     cnn1d                    RMSE=21.0761  R²=-192.2487  t=0.78s
+2026-11-06 13:40:33 | INFO     | agentic_dc |     hybrid_stack             RMSE=0.4275  R²=0.9205  t=0.09s
+2026-11-06 13:40:33 | INFO     | agentic_dc |   Series: Cooling_Supply_Average  n=2500
+2026-11-06 13:40:33 | INFO     | agentic_dc |     persistence          RMSE=0.8835  R²=0.7027
+2026-11-06 13:40:33 | INFO     | agentic_dc |     hist_gradient_boosting   RMSE=0.8535  R²=0.7225  t=0.00s
+2026-11-06 13:40:33 | INFO     | agentic_dc |     random_forest            RMSE=1.1663  R²=0.4819  t=0.06s
+2026-11-06 13:40:33 | INFO     | agentic_dc |     extra_trees              RMSE=1.1537  R²=0.4930  t=0.08s
+2026-11-06 13:40:33 | INFO     | agentic_dc |     ridge                    RMSE=0.8535  R²=0.7225  t=0.00s
+2026-11-06 13:40:33 | INFO     | agentic_dc |     gradient_boosting        RMSE=0.8536  R²=0.7225  t=0.00s
+2026-11-06 13:40:33 | INFO     | agentic_dc |     mlp                      RMSE=10.1519  R²=-38.2561  t=0.26s
+2026-11-06 13:40:34 | INFO     | agentic_dc |     residual_mlp             RMSE=2.0117  R²=-0.5414  t=0.62s
+2026-11-06 13:40:34 | INFO     | agentic_dc |     lstm                     RMSE=14.7246  R²=-81.5851  t=0.71s
+2026-11-06 13:40:35 | INFO     | agentic_dc |     gru                      RMSE=14.5906  R²=-80.0889  t=0.52s
+2026-11-06 13:40:35 | INFO     | agentic_dc |     cnn1d                    RMSE=9.6808  R²=-34.6976  t=0.36s
+2026-11-06 13:40:35 | INFO     | agentic_dc |     hybrid_stack             RMSE=0.8574  R²=0.7200  t=0.08s
+2026-11-06 13:40:35 | INFO     | agentic_dc |   Series: Inlet_Temp_Avg  n=2500
+2026-11-06 13:40:35 | INFO     | agentic_dc |     persistence          RMSE=0.9997  R²=0.7209
+2026-11-06 13:40:35 | INFO     | agentic_dc |     hist_gradient_boosting   RMSE=1.1573  R²=0.6260  t=0.00s
+2026-11-06 13:40:35 | INFO     | agentic_dc |     random_forest            RMSE=4.5299  R²=-4.7305  t=0.05s
+2026-11-06 13:40:36 | INFO     | agentic_dc |     extra_trees              RMSE=4.5825  R²=-4.8642  t=0.08s
+2026-11-06 13:40:36 | INFO     | agentic_dc |     ridge                    RMSE=1.1167  R²=0.6518  t=0.00s
+2026-11-06 13:40:36 | INFO     | agentic_dc |     gradient_boosting        RMSE=1.1594  R²=0.6246  t=0.00s
+2026-11-06 13:40:36 | INFO     | agentic_dc |     mlp                      RMSE=10.6849  R²=-30.8824  t=0.46s
+2026-11-06 13:40:37 | INFO     | agentic_dc |     residual_mlp             RMSE=3.3020  R²=-2.0449  t=0.68s
+2026-11-06 13:40:37 | INFO     | agentic_dc |     lstm                     RMSE=23.8992  R²=-158.5053  t=0.67s
+2026-11-06 13:40:38 | INFO     | agentic_dc |     gru                      RMSE=22.4774  R²=-140.0914  t=0.51s
+2026-11-06 13:40:39 | INFO     | agentic_dc |     cnn1d                    RMSE=6.0881  R²=-9.3508  t=0.80s
+2026-11-06 13:40:39 | INFO     | agentic_dc |     hybrid_stack             RMSE=0.9450  R²=0.7506  t=0.10s
+2026-11-06 13:40:39 | INFO     | agentic_dc |   Series: Outlet_Avg_Temp  n=2500
+2026-11-06 13:40:39 | INFO     | agentic_dc |     persistence          RMSE=0.3270  R²=0.9079
+2026-11-06 13:40:39 | INFO     | agentic_dc |     hist_gradient_boosting   RMSE=0.3142  R²=0.9150  t=0.00s
+2026-11-06 13:40:39 | INFO     | agentic_dc |     random_forest            RMSE=0.6207  R²=0.6684  t=0.05s
+2026-11-06 13:40:39 | INFO     | agentic_dc |     extra_trees              RMSE=0.6005  R²=0.6897  t=0.06s
+2026-11-06 13:40:39 | INFO     | agentic_dc |     ridge                    RMSE=0.3152  R²=0.9145  t=0.00s
+2026-11-06 13:40:39 | INFO     | agentic_dc |     gradient_boosting        RMSE=0.3142  R²=0.9151  t=0.00s
+2026-11-06 13:40:39 | INFO     | agentic_dc |     mlp                      RMSE=4.8654  R²=-19.3735  t=0.56s
+2026-11-06 13:40:40 | INFO     | agentic_dc |     residual_mlp             RMSE=5.2258  R²=-22.5031  t=0.66s
+2026-11-06 13:40:41 | INFO     | agentic_dc |     lstm                     RMSE=29.5667  R²=-751.3651  t=0.76s
+2026-11-06 13:40:41 | INFO     | agentic_dc |     gru                      RMSE=28.5030  R²=-698.2020  t=0.58s
+2026-11-06 13:40:42 | INFO     | agentic_dc |     cnn1d                    RMSE=9.4246  R²=-75.4448  t=0.41s
+2026-11-06 13:40:42 | INFO     | agentic_dc |     hybrid_stack             RMSE=0.3152  R²=0.9145  t=0.08s
+2026-11-06 13:40:42 | INFO     | agentic_dc |   Series: Overall_Coolant_Supply_Temp  n=2500
+2026-11-06 13:40:42 | INFO     | agentic_dc |     persistence          RMSE=0.2787  R²=0.9063
+2026-11-06 13:40:42 | INFO     | agentic_dc |     hist_gradient_boosting   RMSE=0.3243  R²=0.8731  t=0.00s
+2026-11-06 13:40:42 | INFO     | agentic_dc |     random_forest            RMSE=1.1884  R²=-0.7037  t=0.05s
+2026-11-06 13:40:42 | INFO     | agentic_dc |     extra_trees              RMSE=1.2103  R²=-0.7672  t=0.06s
+2026-11-06 13:40:42 | INFO     | agentic_dc |     ridge                    RMSE=0.3132  R²=0.8817  t=0.00s
+2026-11-06 13:40:42 | INFO     | agentic_dc |     gradient_boosting        RMSE=0.3249  R²=0.8727  t=0.00s
+2026-11-06 13:40:42 | INFO     | agentic_dc |     mlp                      RMSE=7.7269  R²=-71.0243  t=0.25s
+2026-11-06 13:40:43 | INFO     | agentic_dc |     residual_mlp             RMSE=3.7358  R²=-15.8360  t=0.35s
+2026-11-06 13:40:43 | INFO     | agentic_dc |     lstm                     RMSE=13.3188  R²=-212.9913  t=0.66s
+2026-11-06 13:40:44 | INFO     | agentic_dc |     gru                      RMSE=13.7968  R²=-228.6273  t=0.49s
+2026-11-06 13:40:44 | INFO     | agentic_dc |     cnn1d                    RMSE=5.3557  R²=-33.6019  t=0.43s
+2026-11-06 13:40:44 | INFO     | agentic_dc |     hybrid_stack             RMSE=0.2841  R²=0.9027  t=0.08s
+2026-11-06 13:40:44 | INFO     | agentic_dc |   Series: Overall_average_Coolant_Return_Temp  n=2500
+2026-11-06 13:40:44 | INFO     | agentic_dc |     persistence          RMSE=0.7606  R²=0.9754
+2026-11-06 13:40:44 | INFO     | agentic_dc |     hist_gradient_boosting   RMSE=2.7890  R²=0.6689  t=0.01s
+2026-11-06 13:40:44 | INFO     | agentic_dc |     random_forest            RMSE=9.8484  R²=-3.1289  t=0.07s
+2026-11-06 13:40:44 | INFO     | agentic_dc |     extra_trees              RMSE=9.8968  R²=-3.1695  t=0.07s
+2026-11-06 13:40:44 | INFO     | agentic_dc |     ridge                    RMSE=2.6742  R²=0.6956  t=0.00s
+2026-11-06 13:40:44 | INFO     | agentic_dc |     gradient_boosting        RMSE=2.7944  R²=0.6676  t=0.01s
+2026-11-06 13:40:45 | INFO     | agentic_dc |     mlp                      RMSE=54.7864  R²=-126.7744  t=0.44s
+2026-11-06 13:40:46 | INFO     | agentic_dc |     residual_mlp             RMSE=23.3750  R²=-22.2596  t=0.64s
+2026-11-06 13:40:46 | INFO     | agentic_dc |     lstm                     RMSE=35.1588  R²=-51.6218  t=0.72s
+2026-11-06 13:40:47 | INFO     | agentic_dc |     gru                      RMSE=33.6554  R²=-47.2178  t=0.52s
+2026-11-06 13:40:48 | INFO     | agentic_dc |     cnn1d                    RMSE=54.9649  R²=-127.6084  t=0.78s
+2026-11-06 13:40:48 | INFO     | agentic_dc |     hybrid_stack             RMSE=1.2588  R²=0.9325  t=0.09s
+2026-11-06 13:40:48 | INFO     | agentic_dc |   Series: SubLoop1_Coolant_Return_Temp  n=2500
+2026-11-06 13:40:48 | INFO     | agentic_dc |     persistence          RMSE=0.7660  R²=0.7629
+2026-11-06 13:40:48 | INFO     | agentic_dc |     hist_gradient_boosting   RMSE=1.0851  R²=0.5241  t=0.00s
+2026-11-06 13:40:48 | INFO     | agentic_dc |     random_forest            RMSE=4.3489  R²=-6.6429  t=0.05s
+2026-11-06 13:40:48 | INFO     | agentic_dc |     extra_trees              RMSE=4.4038  R²=-6.8373  t=0.08s
+2026-11-06 13:40:48 | INFO     | agentic_dc |     ridge                    RMSE=1.0372  R²=0.5653  t=0.00s
+2026-11-06 13:40:48 | INFO     | agentic_dc |     gradient_boosting        RMSE=1.0875  R²=0.5221  t=0.00s
+2026-11-06 13:40:48 | INFO     | agentic_dc |     mlp                      RMSE=13.5768  R²=-73.4901  t=0.24s
+2026-11-06 13:40:48 | INFO     | agentic_dc |     residual_mlp             RMSE=17.9306  R²=-128.9261  t=0.22s
+2026-11-06 13:40:49 | INFO     | agentic_dc |     lstm                     RMSE=19.4531  R²=-151.9264  t=0.67s
+2026-11-06 13:40:49 | INFO     | agentic_dc |     gru                      RMSE=18.0845  R²=-131.1661  t=0.52s
+2026-11-06 13:40:50 | INFO     | agentic_dc |     cnn1d                    RMSE=7.9282  R²=-24.4010  t=0.38s
+2026-11-06 13:40:50 | INFO     | agentic_dc |     hybrid_stack             RMSE=1.1944  R²=0.4235  t=0.08s
+2026-11-06 13:40:50 | INFO     | agentic_dc |   Series: SubLoop2_Coolant_Return_Temp  n=2500
+2026-11-06 13:40:50 | INFO     | agentic_dc |     persistence          RMSE=0.7365  R²=0.7798
+2026-11-06 13:40:50 | INFO     | agentic_dc |     hist_gradient_boosting   RMSE=0.6863  R²=0.8088  t=0.01s
+2026-11-06 13:40:50 | INFO     | agentic_dc |     random_forest            RMSE=1.3010  R²=0.3128  t=0.05s
+2026-11-06 13:40:50 | INFO     | agentic_dc |     extra_trees              RMSE=1.2949  R²=0.3192  t=0.06s
+2026-11-06 13:40:50 | INFO     | agentic_dc |     ridge                    RMSE=0.6866  R²=0.8086  t=0.00s
+2026-11-06 13:40:50 | INFO     | agentic_dc |     gradient_boosting        RMSE=0.6863  R²=0.8088  t=0.00s
+2026-11-06 13:40:51 | INFO     | agentic_dc |     mlp                      RMSE=4.7493  R²=-8.1576  t=0.48s
+2026-11-06 13:40:51 | INFO     | agentic_dc |     residual_mlp             RMSE=5.2543  R²=-10.2085  t=0.41s
+2026-11-06 13:40:52 | INFO     | agentic_dc |     lstm                     RMSE=23.7237  R²=-227.5005  t=0.64s
+2026-11-06 13:40:52 | INFO     | agentic_dc |     gru                      RMSE=22.4023  R²=-202.7539  t=0.49s
+2026-11-06 13:40:53 | INFO     | agentic_dc |     cnn1d                    RMSE=3.2946  R²=-3.4069  t=0.83s
+2026-11-06 13:40:53 | INFO     | agentic_dc |     hybrid_stack             RMSE=0.7622  R²=0.7641  t=0.09s
+2026-11-06 13:40:53 | INFO     | agentic_dc |   Series: SubLoop3_Coolant_Return_Temp  n=2500
+2026-11-06 13:40:53 | INFO     | agentic_dc |     persistence          RMSE=0.6276  R²=0.7594
+2026-11-06 13:40:53 | INFO     | agentic_dc |     hist_gradient_boosting   RMSE=0.6136  R²=0.7700  t=0.00s
+2026-11-06 13:40:53 | INFO     | agentic_dc |     random_forest            RMSE=2.1550  R²=-1.8369  t=0.05s
+2026-11-06 13:40:53 | INFO     | agentic_dc |     extra_trees              RMSE=2.1743  R²=-1.8878  t=0.06s
+2026-11-06 13:40:53 | INFO     | agentic_dc |     ridge                    RMSE=0.6062  R²=0.7755  t=0.00s
+2026-11-06 13:40:53 | INFO     | agentic_dc |     gradient_boosting        RMSE=0.6140  R²=0.7697  t=0.00s
+2026-11-06 13:40:54 | INFO     | agentic_dc |     mlp                      RMSE=9.4168  R²=-53.1689  t=0.44s
+2026-11-06 13:40:54 | INFO     | agentic_dc |     residual_mlp             RMSE=4.6232  R²=-12.0564  t=0.46s
+2026-11-06 13:40:55 | INFO     | agentic_dc |     lstm                     RMSE=24.6915  R²=-371.4260  t=0.67s
+2026-11-06 13:40:55 | INFO     | agentic_dc |     gru                      RMSE=23.1540  R²=-326.4889  t=0.48s
+2026-11-06 13:40:56 | INFO     | agentic_dc |     cnn1d                    RMSE=5.3165  R²=-16.2659  t=0.45s
+2026-11-06 13:40:56 | INFO     | agentic_dc |     hybrid_stack             RMSE=0.6473  R²=0.7440  t=0.08s
+2026-11-06 13:40:56 | INFO     | agentic_dc | Writing tables …
+2026-11-06 13:41:01 | INFO     | agentic_dc | Writing figures …
+2026-11-06 13:41:33 | INFO     | agentic_dc | Writing figures (fixed) …
+2026-11-06 13:41:46 | INFO     | agentic_dc | Figures written
+2026-11-06 13:41:46 | INFO     | agentic_dc | Running Agentic AI decision-support evaluation …
+2026-11-06 13:41:47 | INFO     | agentic_dc | Agentic evaluation: 6 recommendation records

@@ -1,0 +1,8 @@
+indicator,unit,role,available_in_synthetic
+Cooling Return Average,°C,thermal,True
+Cooling Supply Average,°C,cooling,True
+Inlet Temp Avg,°C,thermal,True
+Outlet Avg Temp,°C,thermal,True
+Overall Coolant Supply Temp,°C,cooling,True
+PUE (illustrative),ratio,efficiency,derived in agentic demo
+IT power (illustrative),kW,power,derived in agentic demo

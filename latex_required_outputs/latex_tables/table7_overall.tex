@@ -1,0 +1,20 @@
+% Auto-generated from synthetic smoke-test results
+% NOT the experimental numbers reported in the manuscript
+\begin{tabular}{llrrrrrrr}
+\toprule
+model & category & macro_nrmse & macro_rmse & macro_mae & macro_r2 & mean_train_time & mean_infer_time & val_rank \\
+\midrule
+persistence & baseline & 0.0798 & 0.6465 & 0.5134 & 0.8257 & 0.0000 & 0.0000 & 1 \\
+hybrid_stack & hybrid & 0.0886 & 0.7435 & 0.6043 & 0.7858 & 0.0846 & 0.0004 & 2 \\
+ridge & ml & 0.0997 & 0.9123 & 0.7580 & 0.7616 & 0.0003 & 0.0000 & 3 \\
+hist_gradient_boosting & ml & 0.1030 & 0.9444 & 0.7880 & 0.7455 & 0.0050 & 0.0002 & 4 \\
+gradient_boosting & ml & 0.1032 & 0.9460 & 0.7895 & 0.7447 & 0.0047 & 0.0003 & 5 \\
+random_forest & ml & 0.3778 & 3.4232 & 3.0712 & -3.1631 & 0.0533 & 0.0002 & 6 \\
+extra_trees & ml & 0.3807 & 3.4483 & 3.1003 & -3.2498 & 0.0689 & 0.0003 & 7 \\
+residual_mlp & dl & 1.2455 & 10.0899 & 9.2374 & -54.7727 & 0.5268 & 0.0009 & 8 \\
+cnn1d & dl & 1.5047 & 13.6811 & 12.1482 & -57.4473 & 0.5802 & 0.0011 & 9 \\
+mlp & dl & 1.9571 & 17.1035 & 15.3751 & -116.3816 & 0.4023 & 0.0006 & 10 \\
+gru & dl & 3.1161 & 23.3360 & 23.2615 & -259.7535 & 0.5143 & 0.0005 & 11 \\
+lstm & dl & 3.2281 & 24.3093 & 24.2325 & -279.5761 & 0.6885 & 0.0006 & 12 \\
+\bottomrule
+\end{tabular}

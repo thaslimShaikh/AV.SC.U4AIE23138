@@ -1,0 +1,10 @@
+dataset_or_series,original_rows,retained_rows,missing_values,duplicate_timestamps,features_used,targets_used,source
+Cooling_Return_Average,2500,2500,0,0,"lags, rolling, calendar, ambient, it_load, fan_speed",value,synthetic_generator matching paper schema
+Cooling_Supply_Average,2500,2500,0,0,"lags, rolling, calendar, ambient, it_load, fan_speed",value,synthetic_generator matching paper schema
+Inlet_Temp_Avg,2500,2500,0,0,"lags, rolling, calendar, ambient, it_load, fan_speed",value,synthetic_generator matching paper schema
+Outlet_Avg_Temp,2500,2500,0,0,"lags, rolling, calendar, ambient, it_load, fan_speed",value,synthetic_generator matching paper schema
+Overall_Coolant_Supply_Temp,2500,2500,0,0,"lags, rolling, calendar, ambient, it_load, fan_speed",value,synthetic_generator matching paper schema
+Overall_average_Coolant_Return_Temp,2500,2500,0,0,"lags, rolling, calendar, ambient, it_load, fan_speed",value,synthetic_generator matching paper schema
+SubLoop1_Coolant_Return_Temp,2500,2500,0,0,"lags, rolling, calendar, ambient, it_load, fan_speed",value,synthetic_generator matching paper schema
+SubLoop2_Coolant_Return_Temp,2500,2500,0,0,"lags, rolling, calendar, ambient, it_load, fan_speed",value,synthetic_generator matching paper schema
+SubLoop3_Coolant_Return_Temp,2500,2500,0,0,"lags, rolling, calendar, ambient, it_load, fan_speed",value,synthetic_generator matching paper schema
