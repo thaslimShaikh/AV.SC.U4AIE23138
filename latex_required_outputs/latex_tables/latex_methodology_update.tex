@@ -1,0 +1,58 @@
+% Optional replacement / supplementary LaTeX fragment for the Methodology
+% and Experimental-Results structure of the paper.
+% This fragment does NOT invent numerical results; it only documents the
+% reproducible pipeline that corresponds to the code repository.
+
+\subsection{Reproducible Software Pipeline}
+\label{subsec:reproducible_pipeline}
+
+A complete open-source implementation of the experimental workflow has been
+released together with this manuscript.  The repository provides:
+
+\begin{itemize}
+    \item Schema definitions for every original and additional data-source
+    family described in Section~\ref{sec:materials_methods}, including
+    expected row/column counts, target variable names and provenance.
+    \item A leakage-free chronological preprocessing module that constructs
+    lag and rolling features exclusively from past observations and fits
+    imputers and scalers on the training partition only.
+    \item Implementations of the machine-learning candidates
+    (HistGradientBoosting, XGBoost, Random Forest, Extra Trees,
+    Gradient Boosting, LightGBM), the deep-learning candidates
+    (MLP, residual MLP, LSTM, GRU, 1-D CNN) and a genuine time-ordered
+    stacking hybrid in which both ML and DL base predictions contribute
+    to a meta-learner trained on out-of-fold validation forecasts.
+    \item An evidence-grounded Agentic AI decision-support layer that
+    retrieves operational rules, compares forecasts with thresholds, and
+    emits prioritised recommendations that always require human review.
+    \item Automated generation of the eight comparison tables and four
+    (or more) publication-quality figures requested by the experimental
+    protocol.
+\end{itemize}
+
+Because the original measurement files are not redistributed, the
+repository ships a synthetic data generator that respects the temporal
+structure and target names of the nine aligned series used in the
+extended-data experiment.  All numeric results produced by the
+synthetic smoke test are clearly labelled as such and must not be
+confused with the experimental numbers reported in
+Section~\ref{sec:results}.  When the real datasets are supplied, the
+identical pipeline yields the metrics that appear in the paper.
+
+\subsection{Ablation and Comparison Protocol}
+The software evaluates four classes of predictor on every series:
+
+\begin{enumerate}
+    \item Lag-1 persistence baseline,
+    \item Individual ML models,
+    \item Individual DL models,
+    \item The hybrid stacking ensemble.
+\end{enumerate}
+
+Metrics (RMSE, MAE, $R^2$, normalised RMSE) are reported both
+per-series and as macro averages.  An ablation view isolates the
+contribution of expanded feature engineering, data augmentation
+(when used) and the hybrid fusion step.  The Agentic AI layer is
+assessed qualitatively for evidence support, safety and consistency;
+its recommendations are never claimed to produce measured energy or
+carbon savings without a controlled intervention study.

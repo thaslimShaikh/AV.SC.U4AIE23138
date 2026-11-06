@@ -1,0 +1,7 @@
+scenario,rule_id,priority,confidence,human_review_required,evidence,message_preview
+High PUE,PUE-HIGH,high,high,True,"{'PUE': 1.65, 'threshold': 1.5}",Investigate cooling overhead and non-IT loads. Verify CRAC set-points and free-cooling availability. Human review requir
+High Inlet Temperature,INLET-HIGH,high,high,True,"{'Inlet_Temp_Avg': 27.9, 'threshold': 27.0}",Review airflow management and CRAC capacity. Check for hot-aisle containment issues. Do not raise cooling set-points wit
+Cooling Supply Drift,COOLING-SUPPLY-DRIFT,medium,medium,True,"{'supply': 20.5, 'baseline': 17.5, 'drift': 3.0}",Inspect chiller / CRAH performance and coolant loop. Compare predicted vs measured supply temperature.
+IT Power Spike,IT-POWER-SPIKE,medium,medium,True,"{'IT_power': 950, 'recent_max': 1000, 'ratio': 0.95}",Confirm workload schedule.  Prepare cooling capacity if sustained. No autonomous power capping is performed by this syst
+Low Delta-T,DELTA-T-LOW,low,medium,True,"{'delta_T': 3.5, 'threshold': 5.0}",Evaluate whether cooling can be reduced safely. Check for bypass airflow.  Human confirmation required.
+High Model Uncertainty,UNCERTAINTY-HIGH,high,low,True,"{'model_uncertainty': 0.22, 'threshold': 0.15}",Forecast confidence is low.  Treat recommendation as advisory only. Collect additional sensor data or re-train on recent

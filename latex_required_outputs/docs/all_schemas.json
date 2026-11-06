@@ -1,0 +1,208 @@
+{
+  "nlr_hpc_pue": {
+    "name": "NLR HPC Facility / PUE",
+    "family": "Original",
+    "provenance": "NLR Data Catalog (nlr_pue_dataset)",
+    "expected_rows": 4569543,
+    "expected_cols": 11,
+    "targets": [
+      "IT_power",
+      "PUE"
+    ],
+    "parameter_types": [
+      "IT power",
+      "PUE",
+      "cooling",
+      "HVAC",
+      "pump",
+      "plug-and-light",
+      "energy reuse",
+      "environmental measurements"
+    ],
+    "notes": "IT power and PUE treated as separate prediction targets."
+  },
+  "danish_serverroom": {
+    "name": "Danish server-room measurements",
+    "family": "Original",
+    "provenance": "AAU / Zenodo (danish_serverroom_dataset)",
+    "expected_rows": 1371363,
+    "expected_cols": 52,
+    "targets": [
+      "Ch1_power",
+      "Ch2_power",
+      "Ch3_power"
+    ],
+    "parameter_types": [
+      "power",
+      "temperature"
+    ],
+    "notes": "3 power channels + 48 temperature channels across 8 sensor modules."
+  },
+  "nrel_rsf": {
+    "name": "NREL RSF Measured Energy Data 2011",
+    "family": "Original",
+    "provenance": "NLR / Data.gov (nrel_rsf_dataset)",
+    "expected_rows": 8760,
+    "expected_cols": 12,
+    "targets": [
+      "Total_Data_Center_kW"
+    ],
+    "parameter_types": [
+      "cooling",
+      "heating",
+      "mechanical",
+      "lighting",
+      "plug-load",
+      "data-centre",
+      "total-building power",
+      "PV generation",
+      "net power"
+    ],
+    "notes": "Hourly records."
+  },
+  "thai_power_meters": {
+    "name": "Thai power-meter measurements",
+    "family": "Original",
+    "provenance": "Project file 4power_test.csv",
+    "expected_rows": 393106,
+    "expected_cols": 58,
+    "targets": [
+      "ADB1_CRAC3",
+      "ADB1_CRAC4",
+      "UDB1_ULC_5",
+      "UDB2_ULC_6"
+    ],
+    "parameter_types": [
+      "power",
+      "energy",
+      "current",
+      "voltage",
+      "frequency",
+      "power factor",
+      "THD",
+      "maximum demand",
+      "CO2 emissions"
+    ],
+    "notes": "Four device-level series treated separately."
+  },
+  "bodentype": {
+    "name": "BodenType Data Center",
+    "family": "Additional",
+    "provenance": "BodenType Data Center.xlsx (multi-sheet)",
+    "expected_rows": null,
+    "expected_cols": null,
+    "targets": [
+      "facility_power",
+      "PUE",
+      "selected_thermal"
+    ],
+    "parameter_types": [
+      "electrical power",
+      "PUE",
+      "temperature",
+      "humidity",
+      "specific humidity",
+      "dew point",
+      "pressure",
+      "fan speed",
+      "water use",
+      "utilisation",
+      "enthalpy"
+    ],
+    "notes": "Sheets: H, D, W, PUE, Hum., DP with different dimensions."
+  },
+  "frontier_hpc": {
+    "name": "Frontier HPC and Facility",
+    "family": "Additional",
+    "provenance": "Frontier HPC & Facility Data.xlsx (Frontier2023 sheet)",
+    "expected_rows": 49874,
+    "expected_cols": 18,
+    "targets": [
+      "coolant_temp",
+      "total_power",
+      "PUE"
+    ],
+    "parameter_types": [
+      "coolant temperature",
+      "coolant flow",
+      "waste heat",
+      "compute power",
+      "facility accessory power",
+      "total power",
+      "PUE"
+    ],
+    "notes": ""
+  },
+  "aau_field": {
+    "name": "AAU Field Validation",
+    "family": "Additional",
+    "provenance": "AAU test files (16 CSV files)",
+    "expected_rows": 720,
+    "expected_cols": 14,
+    "targets": [
+      "IT_power",
+      "facility_power",
+      "inlet_temp",
+      "outlet_temp"
+    ],
+    "parameter_types": [
+      "inlet temperature",
+      "outlet temperature",
+      "cooling supply",
+      "cooling return",
+      "IT power",
+      "facility power",
+      "RCI-HI",
+      "RCI-LO",
+      "RTI",
+      "RHI",
+      "RI",
+      "PUE",
+      "CoP"
+    ],
+    "notes": "Baseline, wall, plate, plate-wall at 25/50/75/100 % loads."
+  },
+  "psnc": {
+    "name": "PSNC",
+    "family": "Additional",
+    "provenance": "PSNC_Dataset.csv",
+    "expected_rows": 288,
+    "expected_cols": 11,
+    "targets": [
+      "inlet_temp",
+      "outlet_temp",
+      "cooling_indicators"
+    ],
+    "parameter_types": [
+      "inlet temperature",
+      "outlet temperature",
+      "cooling supply",
+      "cooling return",
+      "RCI-HI",
+      "RCI-LO",
+      "RTI",
+      "RHI",
+      "RI",
+      "LI"
+    ],
+    "notes": ""
+  },
+  "hazardnet": {
+    "name": "HazardNet Marconi A2",
+    "family": "Additional",
+    "provenance": "HazardNet Marconi A2 CSV files (Zenodo)",
+    "expected_rows": 50573,
+    "expected_cols": 3313,
+    "targets": [
+      "inlet_air_temp",
+      "outlet_air_temp",
+      "power_consumption"
+    ],
+    "parameter_types": [
+      "inlet-air temperature",
+      "outlet-air temperature",
+      "power consumption"
+    ],
+    "notes": "Three separate high-dimensional files that must be time-aligned."
+  }
+}

@@ -1,0 +1,10 @@
+dataset,family,expected_rows,expected_cols,n_parameters,targets,provenance,availability,multi_file,multi_sheet,notes
+NLR HPC Facility / PUE,Original,4569543.0,11.0,8,IT_power; PUE,NLR Data Catalog (nlr_pue_dataset),SYNTHETIC STUB (real files not present),False,False,IT power and PUE treated as separate prediction targets.
+Danish server-room measurements,Original,1371363.0,52.0,2,Ch1_power; Ch2_power; Ch3_power,AAU / Zenodo (danish_serverroom_dataset),SYNTHETIC STUB (real files not present),False,False,3 power channels + 48 temperature channels across 8 sensor modules.
+NREL RSF Measured Energy Data 2011,Original,8760.0,12.0,9,Total_Data_Center_kW,NLR / Data.gov (nrel_rsf_dataset),SYNTHETIC STUB (real files not present),False,False,Hourly records.
+Thai power-meter measurements,Original,393106.0,58.0,9,ADB1_CRAC3; ADB1_CRAC4; UDB1_ULC_5; UDB2_ULC_6,Project file 4power_test.csv,SYNTHETIC STUB (real files not present),False,False,Four device-level series treated separately.
+BodenType Data Center,Additional,,,11,facility_power; PUE; selected_thermal,BodenType Data Center.xlsx (multi-sheet),SYNTHETIC STUB (real files not present),False,True,"Sheets: H, D, W, PUE, Hum., DP with different dimensions."
+Frontier HPC and Facility,Additional,49874.0,18.0,7,coolant_temp; total_power; PUE,Frontier HPC & Facility Data.xlsx (Frontier2023 sheet),SYNTHETIC STUB (real files not present),False,True,
+AAU Field Validation,Additional,720.0,14.0,13,IT_power; facility_power; inlet_temp; outlet_temp,AAU test files (16 CSV files),SYNTHETIC STUB (real files not present),True,False,"Baseline, wall, plate, plate-wall at 25/50/75/100 % loads."
+PSNC,Additional,288.0,11.0,10,inlet_temp; outlet_temp; cooling_indicators,PSNC_Dataset.csv,SYNTHETIC STUB (real files not present),False,False,
+HazardNet Marconi A2,Additional,50573.0,3313.0,3,inlet_air_temp; outlet_air_temp; power_consumption,HazardNet Marconi A2 CSV files (Zenodo),SYNTHETIC STUB (real files not present),True,False,Three separate high-dimensional files that must be time-aligned.

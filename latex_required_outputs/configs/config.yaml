@@ -1,0 +1,68 @@
+# Configuration for Agentic AI Decision Support for Sustainable Data Centre Operations
+# Aligned with the research paper methodology
+
+project:
+  name: "Agentic AI Decision Support for Sustainable Data Centre Operations"
+  version: "1.0.0"
+  seed: 42
+  output_dir: "outputs"
+  data_dir: "data"
+
+# Chronological split ratios (time-series aware)
+split:
+  train_ratio: 0.60
+  val_ratio: 0.20
+  test_ratio: 0.20
+
+# Feature engineering
+features:
+  lag_orders: [1, 2, 3, 6, 12]
+  rolling_windows: [3, 6, 12, 24]
+  calendar_features: true
+  cyclic_encoding: true
+
+# Models to train
+models:
+  ml:
+    - hist_gradient_boosting
+    - xgboost
+    - random_forest
+    - extra_trees
+    - gradient_boosting
+    - lightgbm
+  dl:
+    - mlp
+    - residual_mlp
+    - lstm
+    - gru
+    - cnn1d
+  hybrid:
+    enabled: true
+    meta_learner: "ridge"
+    use_oof: true
+
+# Evaluation metrics
+metrics:
+  - rmse
+  - mae
+  - r2
+  - nrmse
+
+# Agentic AI / RAG settings
+agentic:
+  enabled: true
+  knowledge_base_path: "src/agentic/knowledge_base"
+  require_human_review: true
+  uncertainty_threshold: 0.15
+
+# Synthetic data for smoke testing (when real data unavailable)
+synthetic:
+  enabled: true
+  n_samples_per_series: 5000
+  n_series: 9
+  noise_level: 0.05
+
+# Logging
+logging:
+  level: INFO
+  file: "outputs/logs/pipeline.log"
