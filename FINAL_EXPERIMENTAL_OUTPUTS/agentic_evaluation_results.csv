@@ -1,0 +1,7 @@
+scenario,number_of_evaluated_tasks,task_completion_rate,decision_accuracy,human_approval_compliance,unsafe_or_unsupported_action_count
+high_pue,1,1.0,1.0,1.0,0
+high_inlet_temp,1,1.0,1.0,1.0,0
+cooling_supply_drift,1,1.0,1.0,1.0,0
+it_power_spike,1,1.0,1.0,1.0,0
+low_delta_t,1,1.0,1.0,1.0,0
+high_uncertainty,1,1.0,1.0,1.0,0

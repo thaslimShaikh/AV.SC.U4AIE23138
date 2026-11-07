@@ -1,0 +1,451 @@
+dataset_id,target,model,split,rmse,mae,r2,nrmse,status
+dataset_1,IT_power (kW),Persistence Baseline,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Persistence Baseline,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Persistence Baseline,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Ridge Regression,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Ridge Regression,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Ridge Regression,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Random Forest,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Random Forest,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Random Forest,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Extra Trees,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Extra Trees,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Extra Trees,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Hist Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Hist Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Hist Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),XGBoost,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),XGBoost,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),XGBoost,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),LightGBM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),LightGBM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),LightGBM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Residual MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Residual MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Residual MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),LSTM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),LSTM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),LSTM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),GRU,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),GRU,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),GRU,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),CNN1D,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),CNN1D,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),CNN1D,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Ridge Stacking Hybrid,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Ridge Stacking Hybrid,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Ridge Stacking Hybrid,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Residual ML-DL Augmentation,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Residual ML-DL Augmentation,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,IT_power (kW),Residual ML-DL Augmentation,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Persistence Baseline,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Persistence Baseline,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Persistence Baseline,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Ridge Regression,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Ridge Regression,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Ridge Regression,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Random Forest,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Random Forest,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Random Forest,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Extra Trees,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Extra Trees,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Extra Trees,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Hist Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Hist Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Hist Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),XGBoost,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),XGBoost,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),XGBoost,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),LightGBM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),LightGBM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),LightGBM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Residual MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Residual MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Residual MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),LSTM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),LSTM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),LSTM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),GRU,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),GRU,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),GRU,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),CNN1D,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),CNN1D,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),CNN1D,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Ridge Stacking Hybrid,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Ridge Stacking Hybrid,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Ridge Stacking Hybrid,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Residual ML-DL Augmentation,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Residual ML-DL Augmentation,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_1,PUE (ratio),Residual ML-DL Augmentation,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Persistence Baseline,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Persistence Baseline,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Persistence Baseline,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Ridge Regression,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Ridge Regression,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Ridge Regression,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Random Forest,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Random Forest,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Random Forest,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Extra Trees,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Extra Trees,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Extra Trees,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Hist Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Hist Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Hist Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),XGBoost,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),XGBoost,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),XGBoost,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),LightGBM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),LightGBM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),LightGBM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Residual MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Residual MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Residual MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),LSTM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),LSTM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),LSTM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),GRU,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),GRU,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),GRU,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),CNN1D,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),CNN1D,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),CNN1D,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Ridge Stacking Hybrid,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Ridge Stacking Hybrid,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Ridge Stacking Hybrid,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Residual ML-DL Augmentation,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Residual ML-DL Augmentation,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch1_power (kW),Residual ML-DL Augmentation,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Persistence Baseline,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Persistence Baseline,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Persistence Baseline,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Ridge Regression,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Ridge Regression,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Ridge Regression,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Random Forest,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Random Forest,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Random Forest,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Extra Trees,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Extra Trees,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Extra Trees,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Hist Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Hist Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Hist Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),XGBoost,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),XGBoost,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),XGBoost,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),LightGBM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),LightGBM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),LightGBM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Residual MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Residual MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Residual MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),LSTM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),LSTM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),LSTM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),GRU,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),GRU,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),GRU,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),CNN1D,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),CNN1D,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),CNN1D,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Ridge Stacking Hybrid,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Ridge Stacking Hybrid,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Ridge Stacking Hybrid,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Residual ML-DL Augmentation,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Residual ML-DL Augmentation,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch2_power (kW),Residual ML-DL Augmentation,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Persistence Baseline,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Persistence Baseline,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Persistence Baseline,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Ridge Regression,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Ridge Regression,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Ridge Regression,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Random Forest,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Random Forest,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Random Forest,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Extra Trees,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Extra Trees,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Extra Trees,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Hist Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Hist Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Hist Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),XGBoost,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),XGBoost,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),XGBoost,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),LightGBM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),LightGBM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),LightGBM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Residual MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Residual MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Residual MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),LSTM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),LSTM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),LSTM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),GRU,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),GRU,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),GRU,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),CNN1D,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),CNN1D,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),CNN1D,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Ridge Stacking Hybrid,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Ridge Stacking Hybrid,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Ridge Stacking Hybrid,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Residual ML-DL Augmentation,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Residual ML-DL Augmentation,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_2,Ch3_power (kW),Residual ML-DL Augmentation,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Persistence Baseline,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Persistence Baseline,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Persistence Baseline,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Ridge Regression,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Ridge Regression,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Ridge Regression,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Random Forest,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Random Forest,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Random Forest,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Extra Trees,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Extra Trees,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Extra Trees,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Hist Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Hist Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Hist Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),XGBoost,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),XGBoost,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),XGBoost,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),LightGBM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),LightGBM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),LightGBM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Residual MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Residual MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Residual MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),LSTM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),LSTM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),LSTM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),GRU,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),GRU,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),GRU,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),CNN1D,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),CNN1D,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),CNN1D,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Ridge Stacking Hybrid,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Ridge Stacking Hybrid,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Ridge Stacking Hybrid,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Residual ML-DL Augmentation,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Residual ML-DL Augmentation,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_3,Total_Data_Center_kW (kW),Residual ML-DL Augmentation,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Persistence Baseline,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Persistence Baseline,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Persistence Baseline,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Ridge Regression,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Ridge Regression,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Ridge Regression,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Random Forest,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Random Forest,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Random Forest,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Extra Trees,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Extra Trees,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Extra Trees,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Hist Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Hist Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Hist Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),XGBoost,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),XGBoost,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),XGBoost,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),LightGBM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),LightGBM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),LightGBM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Residual MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Residual MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Residual MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),LSTM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),LSTM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),LSTM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),GRU,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),GRU,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),GRU,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),CNN1D,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),CNN1D,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),CNN1D,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Ridge Stacking Hybrid,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Ridge Stacking Hybrid,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Ridge Stacking Hybrid,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Residual ML-DL Augmentation,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Residual ML-DL Augmentation,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC3 (kW),Residual ML-DL Augmentation,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Persistence Baseline,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Persistence Baseline,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Persistence Baseline,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Ridge Regression,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Ridge Regression,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Ridge Regression,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Random Forest,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Random Forest,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Random Forest,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Extra Trees,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Extra Trees,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Extra Trees,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Hist Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Hist Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Hist Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),XGBoost,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),XGBoost,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),XGBoost,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),LightGBM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),LightGBM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),LightGBM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Residual MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Residual MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Residual MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),LSTM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),LSTM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),LSTM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),GRU,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),GRU,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),GRU,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),CNN1D,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),CNN1D,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),CNN1D,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Ridge Stacking Hybrid,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Ridge Stacking Hybrid,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Ridge Stacking Hybrid,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Residual ML-DL Augmentation,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Residual ML-DL Augmentation,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,ADB1_CRAC4 (kW),Residual ML-DL Augmentation,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Persistence Baseline,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Persistence Baseline,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Persistence Baseline,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Ridge Regression,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Ridge Regression,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Ridge Regression,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Random Forest,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Random Forest,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Random Forest,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Extra Trees,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Extra Trees,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Extra Trees,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Hist Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Hist Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Hist Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),XGBoost,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),XGBoost,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),XGBoost,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),LightGBM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),LightGBM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),LightGBM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Residual MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Residual MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Residual MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),LSTM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),LSTM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),LSTM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),GRU,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),GRU,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),GRU,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),CNN1D,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),CNN1D,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),CNN1D,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Ridge Stacking Hybrid,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Ridge Stacking Hybrid,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Ridge Stacking Hybrid,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Residual ML-DL Augmentation,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Residual ML-DL Augmentation,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB1_ULC_5 (kW),Residual ML-DL Augmentation,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Persistence Baseline,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Persistence Baseline,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Persistence Baseline,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Ridge Regression,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Ridge Regression,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Ridge Regression,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Random Forest,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Random Forest,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Random Forest,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Extra Trees,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Extra Trees,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Extra Trees,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Hist Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Hist Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Hist Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Gradient Boosting,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Gradient Boosting,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Gradient Boosting,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),XGBoost,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),XGBoost,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),XGBoost,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),LightGBM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),LightGBM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),LightGBM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Residual MLP,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Residual MLP,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Residual MLP,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),LSTM,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),LSTM,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),LSTM,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),GRU,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),GRU,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),GRU,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),CNN1D,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),CNN1D,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),CNN1D,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Ridge Stacking Hybrid,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Ridge Stacking Hybrid,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Ridge Stacking Hybrid,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Residual ML-DL Augmentation,train,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Residual ML-DL Augmentation,validation,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
+dataset_4,UDB2_ULC_6 (kW),Residual ML-DL Augmentation,test,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,NOT AVAILABLE,STOPPED: Raw dataset file missing; synthetic fabrication prohibited
